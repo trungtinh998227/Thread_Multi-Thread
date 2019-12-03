@@ -1,0 +1,6 @@
+C:\Users\trung\Desktop\Assignment_MultiThread\C#\DemoMultiThread\bin\Debug\DemoMultiThread.exe.config
+C:\Users\trung\Desktop\Assignment_MultiThread\C#\DemoMultiThread\bin\Debug\DemoMultiThread.exe
+C:\Users\trung\Desktop\Assignment_MultiThread\C#\DemoMultiThread\bin\Debug\DemoMultiThread.pdb
+C:\Users\trung\Desktop\Assignment_MultiThread\C#\DemoMultiThread\obj\Debug\DemoMultiThread.csprojAssemblyReference.cache
+C:\Users\trung\Desktop\Assignment_MultiThread\C#\DemoMultiThread\obj\Debug\DemoMultiThread.exe
+C:\Users\trung\Desktop\Assignment_MultiThread\C#\DemoMultiThread\obj\Debug\DemoMultiThread.pdb
